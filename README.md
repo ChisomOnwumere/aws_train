@@ -1,6 +1,6 @@
 # # AWS Budget Terraform Project
 
-This Terraform project creates an `**AWS Budget**` resource to monitor and control monthly spending in your AWS account.
+This Terraform project creates an `AWS Budget` resource to monitor and control monthly spending in your AWS account.
 
 ## Prerequisites
 
